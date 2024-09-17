@@ -1,0 +1,5 @@
+/mnt/nfs/wanghs/hpc/cholesky/bulid/CMakeFiles/edit_cache.dir
+/mnt/nfs/wanghs/hpc/cholesky/bulid/CMakeFiles/rebuild_cache.dir
+/mnt/nfs/wanghs/hpc/cholesky/bulid/src/CMakeFiles/cholesky.dir
+/mnt/nfs/wanghs/hpc/cholesky/bulid/src/CMakeFiles/edit_cache.dir
+/mnt/nfs/wanghs/hpc/cholesky/bulid/src/CMakeFiles/rebuild_cache.dir

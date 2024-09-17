@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/nfs/wanghs/hpc/cholesky/bulid/src",
+  "command": "/usr/local/cuda-12.5/bin/nvcc -forward-unknown-to-host-compiler  --options-file CMakeFiles/cholesky.dir/includes_CUDA.rsp -g --generate-code=arch=compute_86,code=[compute_86,sm_86] -std=c++17 -x cu -c /mnt/nfs/wanghs/hpc/cholesky/src/cholesky.cu -o CMakeFiles/cholesky.dir/cholesky.cu.o",
+  "file": "/mnt/nfs/wanghs/hpc/cholesky/src/cholesky.cu"
+}
+]
